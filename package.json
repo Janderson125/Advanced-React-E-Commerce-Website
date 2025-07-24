@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "advanced-react-ecommerce",
   "version": "1.0.0",
   "private": true,
@@ -21,5 +22,40 @@
     "@types/react-redux": "^7.1.34",
     "typescript": "^5.8.3",
     "vite": "^4.4.9"
+=======
+  "name": "advanced-ecommerce",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@tanstack/react-query": "^4.40.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^5.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "react-scripts start"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+>>>>>>> 869250c7df6c19fba5d1c4e76de7d78b6cbc48cc
   }
 }
